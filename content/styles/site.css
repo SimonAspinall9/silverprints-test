@@ -1,0 +1,14 @@
+html,
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.section {
+    min-height: 200px;
+    overflow: hidden;
+}
+
+.section.welcome>.welcome-text {
+    height: 300px;
+    font-size: 20px;
+}
