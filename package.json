@@ -1,7 +1,7 @@
 {
-    "name": "node-js-getting-started",
-    "version": "0.2.5",
-    "description": "A sample Node.js app using Express 4",
+    "name": "silver-prints",
+    "version": "1.0.0",
+    "description": "A website for Silverprints",
     "engines": {
         "node": "5.9.1"
     },
@@ -11,6 +11,9 @@
     },
     "dependencies": {
         "express": "4.13.3"
+    },
+    "repository": {
+
     },
     "keywords": [
         "node",
