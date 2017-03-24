@@ -6,6 +6,7 @@ body {
 .section {
     min-height: 200px;
     overflow: hidden;
+    border: 1px solid red;
 }
 
 .section.welcome>.welcome-text {
